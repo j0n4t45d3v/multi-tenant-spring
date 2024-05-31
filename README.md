@@ -10,6 +10,7 @@
 - Arquitetura MVC
 - Estrutura de camadas
 - Migrations com Flyway
+- Versionamento de url
 
 ## Como rodar o projeto
 
